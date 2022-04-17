@@ -3,8 +3,37 @@ body {
     color: #f7f7f7;
   }
 
-  .jumbotron {
-    background-image: url("../images/nasa.jpg");
-    background-size: 100% 100%;
-    text-align: center;
-  }
+.jumbotron {
+background-image: url("../images/nasa.jpg");
+background-size: 100% 100%;
+text-align: center;
+}
+
+
+/* asuming you have a p tag with id='myIDTAG' */
+p#myIDTAG {
+    font-size: 15px;
+    font-weight: 700;
+    /* jlkasdjfkjadf l: ;aojsd;fjsaf*/
+}
+
+input#datetime {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+
+
+h3.captionOfmyPage {
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
